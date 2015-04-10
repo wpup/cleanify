@@ -4,6 +4,14 @@
 
 Simple WordPress plugin to remove slug from custom post types permalinks.
 
+# Install
+
+Using composer:
+
+```
+composer require frozzare/cleanify
+```
+
 # Example
 
 Before: `http://example.com/photograph/random-name`

@@ -1,0 +1,27 @@
+{
+  "name": "frozzare/cleanify",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "description": "Remove slug from custom post types permalinks",
+  "homepage": "https://github.com/frozzare/cleanify",
+  "authors": [
+    {
+      "name": "Fredrik Forsmo",
+      "email": "fredrik.forsmo@gmail.com",
+      "homepage": "https://github.com/frozzare"
+    }
+  ],
+  "keywords": [
+    "wordpress",
+    "plugin",
+    "custom post type",
+    "permalink"
+  ],
+  "support": {
+    "issues": "https://github.com/frozzare/cleanify/issues"
+  },
+  "require": {
+    "php": ">=5.4",
+    "composer/installers": "~1.0"
+  }
+}
