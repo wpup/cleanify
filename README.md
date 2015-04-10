@@ -4,9 +4,9 @@
 
 A simple plugin to remove slug from custom post types.
 
-# Filter
+# Filters
 
-## cleanify/cpts
+#### cleanify/cpts
 
 Return all post types where the slug should be removed.
 Should be a string or array of strings.
