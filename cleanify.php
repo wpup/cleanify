@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: Cleanify
- * Description: Remove slug from custom post types
+ * Description: Remove slug from custom post types permalinks
  * Author: Fredrik Forsmo
  * Author URI: http://forsmo.me
  * Version: 1.0.0
