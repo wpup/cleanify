@@ -7,6 +7,7 @@ Simple plugin to remove slug from custom post types permalinks.
 # Example
 
 Before: `http://example.com/photograph/random-name`
+
 After:  `http://example.com/random-name`
 
 ```php
