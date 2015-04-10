@@ -27,7 +27,7 @@ final class Cleanify {
 
   public static function instance() {
     if ( !isset( self::$instance ) ) {
-      self::$instance = new static;
+      self::$instance = new self;
       self::$instance->setup_actions();
       self::$instance->setup_filters();
     }
