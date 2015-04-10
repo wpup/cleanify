@@ -2,7 +2,7 @@
 
 > Requires PHP 5.4
 
-A simple plugin to remove slug from custom post types.
+Simple plugin to remove slug from custom post types permalinks.
 
 # Filters
 
