@@ -7,7 +7,7 @@ Simple WordPress plugin to remove slug from custom post types permalinks.
 # Install
 
 ```
-$ composer require frozzare/cleanify
+composer require frozzare/cleanify
 ```
 
 # Example
@@ -18,9 +18,9 @@ After:  `http://example.com/random-name`
 
 ```php
 
-add_filter('cleanify/cpts', function () {
+add_filter( 'cleanify/cpts', function () {
   return 'photograph';
-});
+} );
 ```
 
 # Filters
