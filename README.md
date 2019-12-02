@@ -1,5 +1,7 @@
 # Cleanify
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 > Requires PHP 5.4
 
 Simple WordPress plugin to remove slug from custom post types permalinks.
